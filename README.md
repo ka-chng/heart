@@ -2,7 +2,7 @@
 
 ## Requirements
 
-**Pyhton3**:https://www.python.org/downloads/ </br>
+**Pyhton3**: https://www.python.org/downloads/ </br>
 **Pyhton pip**: </br>
 Windows: https://pip.pypa.io/en/stable/installation/</br>
 Linux: </br>
